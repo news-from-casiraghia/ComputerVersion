@@ -41,10 +41,8 @@ Casiraghiani, vi chiediamo di completare un [breve sondaggio](https://docs.googl
 * [Clicca qui per contattare noi Rappresentanti :/](https://docs.google.com/forms/d/e/1FAIpQLSfKS3-fOGByvowEZ4CvDTi7U5-nvCvK1FUykII456HmZSHFjw/viewform?usp=sf_link)
 
 ## ATTIVITÀ
+* Ritorna il giornalino scolastico!
+Ragazzi anche quest'anno riparte il **giornalino scolastico**. Speriamo di avere molti nuovi scrittori tra le nostre file. Se siete interessati compilate [questo modulo](https://docs.google.com/forms/d/e/1FAIpQLSdwRXk4tIQAa_RRUAqPuHdvsPqncLjVCqsi7m3pQG2r9z9DiA/viewform?usp=sf_link)
 
-
-Clicca sui link sottostanti per visualizzare le varie pagine dell'app:
-- [NEWS](https://news-from-casiraghia.github.io/NEWS/)
-- [FEEDBACK](https://news-from-casiraghia.github.io/FEEDBACK/)
-- [ATTIVITÀ](https://news-from-casiraghia.github.io/ACTIVITIES/)
-- [CIRCOLARI](https://www.liceocasiraghi.edu.it/)
+* Iscrizioni Torneo E-School League!
+Sono ufficialmente CHIUSE le iscrizioni: avete avuto tempo fino al 31 Dicembre per [iscrivervi qua](https://assembleiamo.it/iscriviti/). Se vuoi qualche informazione in più sull'evento, puoi benissimo farlo [guardando qua!](https://assembleiamo.it/e-school-league/); per qualsiasi problema o domanda, non esitare a contattarci tramite la sezione **Feedback** dell'app!
