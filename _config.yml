@@ -3,3 +3,4 @@ title: CASIRAGHIAPP
 description: Casiraghiani, ecco a voi l'app del Liceo, da ora disponibile anche su PC!
 github:
   is_project_page: false
+show_downloads: false
