@@ -1,3 +1,6 @@
+## I bigliettini di San Valentino <3
+Casiraghiani innamorati, è arrivato (QUASI) San Valentino anche quest'anno. Se volete mandare un messaggio segreto alla vostra anima gemella, potete, come ormai da tradizione, compilare [questo modulo](https://docs.google.com/forms/d/e/1FAIpQLSf2v5hYy1JCIulw2TaxzPE7TmiU4x7SZLWL6zCk-2ANnIFILw/viewform?vc=0&c=0&w=1&flr=0): le risposte finiranno sulla prossima edizione del giornalino scolastico (fine Febbraio)!
+
 ## NEWS
 * News rientro in presenza
 Casiraghiani, abbiamo appena finito di parlare col preside, in merito alla questione del rientro. Gli argomenti trattati sono stati:
